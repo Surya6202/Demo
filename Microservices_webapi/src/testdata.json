@@ -1,0 +1,30 @@
+{
+    "category": {
+        "payload": [
+            {"url": "http://localhost:5246/api/category/"},
+            {
+                "categoryId": 7,
+                "categoryName": "Beauty-products"
+            },
+            {
+                "categoryId": 7,
+                "categoryName": "Skincare"
+            }
+        ]
+    },
+    "product": {
+        "payload": [
+            {"url": "http://localhost:5246/api/product/"},
+            {
+                "productId":9,
+                "productName": "Boat Smart watch",
+                "categoryId":4
+            },
+            {
+                "productId":9,
+                "productName": "Sony Smart Watch",
+                "categoryId":4
+            }
+        ]
+    }
+}
